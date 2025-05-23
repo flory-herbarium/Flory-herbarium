@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flory Herbarium</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Flory Herbarium</h1>
+    <p>Preserving your precious memories in timeless botanical art.</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Welcome to Flory</h2>
+      <p>
+        We create beautiful preserved flower artworks that capture your precious memories in glass. Each piece is handcrafted with care and perfect for gifts, home decor, and keepsakes.
+      </p>
+    </section>
+
+    <section class="gallery">
+      <h2>Our Collection</h2>
+      <div class="photos">
+        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="Preserved flower 1" />
+        <img src="https://images.unsplash.com/photo-1518976024611-6ba8f7d7f6e6?auto=format&fit=crop&w=400&q=80" alt="Preserved flower 2" />
+        <img src="https://images.unsplash.com/photo-1465188035480-9b9a9fa9e55e?auto=format&fit=crop&w=400&q=80" alt="Preserved flower 3" />
+      </div>
+    </section>
+
+    <section class="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:flory.herbarium@gmail.com">flory.herbarium@gmail.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Flory Herbarium. All rights reserved.</p>
+  </footer>
+</body>
+</html>
